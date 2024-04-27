@@ -1,9 +1,9 @@
 # Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
-
+# Ex08-Windows-basic-commands-batchscript
+```
 Developed By: R.Kavi Keerthana
 Reg No: 212222100022
-
+```
 # AIM:
 To execute Windows basic commands and batch scripting
 
@@ -22,9 +22,6 @@ Adapt paths as needed based on your system configuration.
 ### Step 3:
 
 Execute the necessary commands/batch file for the desired output. 
-
-
-
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
